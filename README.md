@@ -8,24 +8,22 @@ working with teams across all stages of Software Development from requirement an
 development and documentation.
 
 ### Skill Highlights
-```markdown
-\# Experienced iOS Application developer using Object C/Swift
-\# Experienced in creating cross platform native application in Flutter/Dart programming
+* Experienced iOS Application developer using Object C/Swift
+* Experienced in creating cross platform native application in Flutter/Dart programming
 Web application development using ReactJS, Redux & PHP
-\# Experienced in implementing In-App Purchases and handling App purchase via Payment Gateways –
+* Experienced in implementing In-App Purchases and handling App purchase via Payment Gateways –
 Google Pay / Apple Pay
-\# Strong knowledge in Crash analytics & Performance optimization
-\# Strong knowledge in Google Ads echo system/Integrations
-\# Strong knowledge in Firebase echo system like Firestore, Pub/Sub, Functions using dart
-\# Experienced in implementing Beautiful UI and Complex animations
-\# Strong knowledge in utilization of device hardware likes Bluetooth/NFC, etc.,
-\# Strong knowledge in CI/CD & GitHub Actions/Hooks
-\# Experienced in performance optimization & security
-\# Experienced in interacting with business users and teams working on different geography
-\# Handled multiple roles – Developer, Technical Lead, Team Lead handling 10+ members
-\# Quick learner with strong analytical, problem solving and communication skills
-\# Imparted knowledge to colleagues and ensured steady growth in every individual in the team
-```
+* Strong knowledge in Crash analytics & Performance optimization
+* Strong knowledge in Google Ads echo system/Integrations
+* Strong knowledge in Firebase echo system like Firestore, Pub/Sub, Functions using dart
+* Experienced in implementing Beautiful UI and Complex animations
+* Strong knowledge in utilization of device hardware likes Bluetooth/NFC, etc.,
+* Strong knowledge in CI/CD & GitHub Actions/Hooks
+* Experienced in performance optimization & security
+* Experienced in interacting with business users and teams working on different geography
+* Handled multiple roles – Developer, Technical Lead, Team Lead handling 10+ members
+* Quick learner with strong analytical, problem solving and communication skills
+* Imparted knowledge to colleagues and ensured steady growth in every individual in the team
 
 You can use the [editor on GitHub](https://github.com/wisvijay/wisvijay.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
